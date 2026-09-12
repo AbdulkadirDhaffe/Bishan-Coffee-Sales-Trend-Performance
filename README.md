@@ -1,4 +1,4 @@
-# ☕ Baydan Coffee Shop — Sales Trend & Performance Analysis
+# ☕ Bidhaan Coffee Shop — Sales Trend & Performance Analysis
 
 ## 📊 Project Overview
 
