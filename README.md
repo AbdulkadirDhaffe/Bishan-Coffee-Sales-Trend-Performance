@@ -154,8 +154,8 @@ The dashboard provides several important business observations:
 
 ## 📊 Dashboard Preview
 
-![Bidhaan Coffee Sales Performance Dashboard](<img width="769" height="374" alt="Bidhaan Coffee Shop" src="https://github.com/user-attachments/assets/9413e83b-6684-4120-9d71-f862dd766660" />
-)
+<img width="769" height="374" alt="Bidhaan Coffee Shop" src="https://github.com/user-attachments/assets/5a8c793c-9a43-4345-a032-3191e1d40c40" />
+
 
 ---
 
