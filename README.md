@@ -154,7 +154,8 @@ The dashboard provides several important business observations:
 
 ## 📊 Dashboard Preview
 
-![Bidhaan Coffee Sales Performance Dashboard](images/dashboard.png)
+![Bidhaan Coffee Sales Performance Dashboard](<img width="769" height="374" alt="Bidhaan Coffee Shop" src="https://github.com/user-attachments/assets/9413e83b-6684-4120-9d71-f862dd766660" />
+)
 
 ---
 
@@ -189,7 +190,7 @@ Bidhaan-Coffee-Sales-Analysis/
 
 ## 👤 Author
 
-**Abdulkadir Abdullahi**
+**Abdulkadir Abdullahi Dhaffe**
 
 **Data Analyst | Business Intelligence | Financial Analytics | AI & ML Enthusiast**
 
